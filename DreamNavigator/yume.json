@@ -1,0 +1,1523 @@
+{
+  "connections": [
+    {
+      "game": "yume",
+      "origin": "Barracks Settlement",
+      "destination": "FC World B",
+      "attributes": [
+        "No Return"
+      ]
+    },
+    {
+      "game": "yume",
+      "origin": "Barracks Settlement",
+      "destination": "Mural World",
+      "attributes": [
+        "No Return"
+      ]
+    },
+    {
+      "game": "yume",
+      "origin": "Barracks Settlement",
+      "destination": "Wilderness",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Block World",
+      "destination": "Checkered Tile Path",
+      "attributes": [
+        "No Entry",
+        "Dead End"
+      ],
+      "isRemoved": true
+    },
+    {
+      "game": "yume",
+      "origin": "Block World",
+      "destination": "Footprint Path",
+      "attributes": [
+        "No Return",
+        "Return"
+      ],
+      "isRemoved": true
+    },
+    {
+      "game": "yume",
+      "origin": "Block World",
+      "destination": "Neon Tile Path",
+      "attributes": [],
+      "isRemoved": true
+    },
+    {
+      "game": "yume",
+      "origin": "Block World",
+      "destination": "Nexus",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Block World",
+      "destination": "Staircase of Hands",
+      "attributes": [
+        "Chance",
+        "Unlockable"
+      ],
+      "chancePercentage": "20%",
+      "chanceDescription": "1/5 chance"
+    },
+    {
+      "game": "yume",
+      "origin": "Block World",
+      "destination": "White Desert A",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Block World",
+      "destination": "Windmill World",
+      "attributes": [
+        "No Entry"
+      ]
+    },
+    {
+      "game": "yume",
+      "origin": "Candle World",
+      "destination": "Checkered Tile Path",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Candle World",
+      "destination": "Docks B",
+      "attributes": [],
+      "isRemoved": true
+    },
+    {
+      "game": "yume",
+      "origin": "Candle World",
+      "destination": "Hell",
+      "attributes": [
+        "No Return",
+        "Return"
+      ]
+    },
+    {
+      "game": "yume",
+      "origin": "Candle World",
+      "destination": "Nexus",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Candle World",
+      "destination": "Staircase of Hands",
+      "attributes": [
+        "Chance",
+        "Unlockable",
+        "Conditional"
+      ],
+      "unlockCondition": "Only if the Poop Hair effect has not yet been collected",
+      "chancePercentage": "20%",
+      "chanceDescription": "1/5 chance"
+    },
+    {
+      "game": "yume",
+      "origin": "Checkered Tile Path",
+      "destination": "Block World",
+      "attributes": [
+        "No Return"
+      ],
+      "isRemoved": true
+    },
+    {
+      "game": "yume",
+      "origin": "Checkered Tile Path",
+      "destination": "Candle World",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Checkered Tile Path",
+      "destination": "Docks B",
+      "attributes": [
+        "No Return",
+        "Return"
+      ]
+    },
+    {
+      "game": "yume",
+      "origin": "Checkered Tile Path",
+      "destination": "Hell",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Checkered Tile Path",
+      "destination": "Lamp World",
+      "attributes": [
+        "Dead End"
+      ]
+    },
+    {
+      "game": "yume",
+      "origin": "Checkered Tile Path",
+      "destination": "Shield-Folk World",
+      "attributes": [],
+      "isRemoved": true
+    },
+    {
+      "game": "yume",
+      "origin": "Dark Woods",
+      "destination": "Hell",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Dark Woods",
+      "destination": "Traincar",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Dark World",
+      "destination": "Face Carpet Plaza",
+      "attributes": [],
+      "isRemoved": true
+    },
+    {
+      "game": "yume",
+      "origin": "Dark World",
+      "destination": "Nexus",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Dark World",
+      "destination": "Wilderness",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Debug Room",
+      "destination": "Checkered Tile Path",
+      "attributes": [
+        "No Return"
+      ],
+      "isRemoved": true
+    },
+    {
+      "game": "yume",
+      "origin": "Debug Room",
+      "destination": "Dark World",
+      "attributes": [
+        "No Return"
+      ],
+      "isRemoved": true
+    },
+    {
+      "game": "yume",
+      "origin": "Debug Room",
+      "destination": "Dense Woods A",
+      "attributes": [
+        "No Return"
+      ],
+      "isRemoved": true
+    },
+    {
+      "game": "yume",
+      "origin": "Debug Room",
+      "destination": "Face Carpet Plaza",
+      "attributes": [
+        "No Return"
+      ],
+      "isRemoved": true
+    },
+    {
+      "game": "yume",
+      "origin": "Debug Room",
+      "destination": "Forest World",
+      "attributes": [
+        "No Return"
+      ],
+      "isRemoved": true
+    },
+    {
+      "game": "yume",
+      "origin": "Debug Room",
+      "destination": "Mars",
+      "attributes": [
+        "No Return"
+      ]
+    },
+    {
+      "game": "yume",
+      "origin": "Debug Room",
+      "destination": "Static Maze",
+      "attributes": [
+        "No Return"
+      ],
+      "isRemoved": true
+    },
+    {
+      "game": "yume",
+      "origin": "Debug Room",
+      "destination": "White Desert B",
+      "attributes": [
+        "No Return"
+      ]
+    },
+    {
+      "game": "yume",
+      "origin": "Dense Woods A",
+      "destination": "FC World C",
+      "attributes": [
+        "No Return"
+      ],
+      "isRemoved": true
+    },
+    {
+      "game": "yume",
+      "origin": "Dense Woods A",
+      "destination": "Guillotine World",
+      "attributes": [
+        "No Entry",
+        "Dead End"
+      ]
+    },
+    {
+      "game": "yume",
+      "origin": "Dense Woods A",
+      "destination": "Hell",
+      "attributes": [
+        "No Entry",
+        "Dead End"
+      ]
+    },
+    {
+      "game": "yume",
+      "origin": "Dense Woods A",
+      "destination": "Infinite Road",
+      "attributes": [
+        "No Return"
+      ]
+    },
+    {
+      "game": "yume",
+      "origin": "Dense Woods A",
+      "destination": "Mural World",
+      "attributes": [],
+      "isRemoved": true
+    },
+    {
+      "game": "yume",
+      "origin": "Dense Woods A",
+      "destination": "Puddle World",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Dense Woods B",
+      "destination": "Mall",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Dense Woods B",
+      "destination": "Teleport Maze",
+      "attributes": [
+        "No Return"
+      ]
+    },
+    {
+      "game": "yume",
+      "origin": "Docks A",
+      "destination": "Sewers",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Docks A",
+      "destination": "Windmill World",
+      "attributes": [
+        "No Entry"
+      ]
+    },
+    {
+      "game": "yume",
+      "origin": "Docks B",
+      "destination": "Candle World",
+      "attributes": [],
+      "isRemoved": true
+    },
+    {
+      "game": "yume",
+      "origin": "Docks B",
+      "destination": "Checkered Tile Path",
+      "attributes": [
+        "No Entry",
+        "Dead End"
+      ]
+    },
+    {
+      "game": "yume",
+      "origin": "Docks B",
+      "destination": "Hell",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Docks B",
+      "destination": "Wilderness",
+      "attributes": [
+        "No Return"
+      ]
+    },
+    {
+      "game": "yume",
+      "origin": "Eyeball World",
+      "destination": "Footprint Path",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Eyeball World",
+      "destination": "Mini Hell",
+      "attributes": [],
+      "isRemoved": true
+    },
+    {
+      "game": "yume",
+      "origin": "Eyeball World",
+      "destination": "Nexus",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "FC Dungeon",
+      "destination": "FC World A",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "FC Dungeon",
+      "destination": "White Desert B",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "FC House",
+      "destination": "FC World A",
+      "attributes": [
+        "Return"
+      ]
+    },
+    {
+      "game": "yume",
+      "origin": "FC House",
+      "destination": "FC World B",
+      "attributes": [
+        "No Entry"
+      ]
+    },
+    {
+      "game": "yume",
+      "origin": "FC House",
+      "destination": "Static Maze",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "FC World A",
+      "destination": "FC Dungeon",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "FC World A",
+      "destination": "FC House",
+      "attributes": [
+        "Dead End"
+      ]
+    },
+    {
+      "game": "yume",
+      "origin": "FC World A",
+      "destination": "Static Tunnel",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "FC World B",
+      "destination": "Barracks Settlement",
+      "attributes": [
+        "No Entry"
+      ]
+    },
+    {
+      "game": "yume",
+      "origin": "FC World B",
+      "destination": "FC House",
+      "attributes": [
+        "No Return"
+      ]
+    },
+    {
+      "game": "yume",
+      "origin": "FC World C",
+      "destination": "Dense Woods A",
+      "attributes": [
+        "No Entry"
+      ]
+    },
+    {
+      "game": "yume",
+      "origin": "FC World C",
+      "destination": "Windmill World",
+      "attributes": [
+        "No Entry"
+      ]
+    },
+    {
+      "game": "yume",
+      "origin": "Face Carpet Plaza",
+      "destination": "Dark World",
+      "attributes": [],
+      "isRemoved": true
+    },
+    {
+      "game": "yume",
+      "origin": "Face Carpet Plaza",
+      "destination": "Forest World",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Face Carpet Plaza",
+      "destination": "Hell",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Face Carpet Plaza",
+      "destination": "Neon Tile Path",
+      "attributes": [
+        "No Return",
+        "Return"
+      ]
+    },
+    {
+      "game": "yume",
+      "origin": "Face Carpet Plaza",
+      "destination": "Snow World",
+      "attributes": [],
+      "isRemoved": true
+    },
+    {
+      "game": "yume",
+      "origin": "Footprint Path",
+      "destination": "Block World",
+      "attributes": [
+        "No Entry",
+        "Dead End"
+      ],
+      "isRemoved": true
+    },
+    {
+      "game": "yume",
+      "origin": "Footprint Path",
+      "destination": "Eyeball World",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Footprint Path",
+      "destination": "Hell",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Footprint Path",
+      "destination": "Lamp World",
+      "attributes": [],
+      "isRemoved": true
+    },
+    {
+      "game": "yume",
+      "origin": "Footprint Path",
+      "destination": "Neon World",
+      "attributes": [],
+      "isRemoved": true
+    },
+    {
+      "game": "yume",
+      "origin": "Footprint Path",
+      "destination": "Puddle World",
+      "attributes": [],
+      "isRemoved": true
+    },
+    {
+      "game": "yume",
+      "origin": "Footprint Path",
+      "destination": "Snow World",
+      "attributes": [],
+      "isRemoved": true
+    },
+    {
+      "game": "yume",
+      "origin": "Forest World",
+      "destination": "Face Carpet Plaza",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Forest World",
+      "destination": "Hell",
+      "attributes": [],
+      "isRemoved": true
+    },
+    {
+      "game": "yume",
+      "origin": "Forest World",
+      "destination": "Nexus",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Ghost World",
+      "destination": "Sky Garden",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Graffiti World",
+      "destination": "Mall",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Graffiti World",
+      "destination": "Neon Tile Path",
+      "attributes": [],
+      "isRemoved": true
+    },
+    {
+      "game": "yume",
+      "origin": "Graffiti World",
+      "destination": "Nexus",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Guillotine World",
+      "destination": "Dense Woods A",
+      "attributes": [
+        "No Return",
+        "Return"
+      ]
+    },
+    {
+      "game": "yume",
+      "origin": "Guillotine World",
+      "destination": "Hell",
+      "attributes": [
+        "No Return",
+        "Return"
+      ]
+    },
+    {
+      "game": "yume",
+      "origin": "Guillotine World",
+      "destination": "Lamp World",
+      "attributes": [],
+      "isRemoved": true
+    },
+    {
+      "game": "yume",
+      "origin": "Guillotine World",
+      "destination": "Neon World",
+      "attributes": [
+        "No Entry"
+      ],
+      "isRemoved": true
+    },
+    {
+      "game": "yume",
+      "origin": "Guillotine World",
+      "destination": "Number World",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Hell",
+      "destination": "Candle World",
+      "attributes": [
+        "No Entry",
+        "Dead End"
+      ]
+    },
+    {
+      "game": "yume",
+      "origin": "Hell",
+      "destination": "Checkered Tile Path",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Hell",
+      "destination": "Dark Woods",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Hell",
+      "destination": "Dense Woods A",
+      "attributes": [
+        "No Return",
+        "Return"
+      ]
+    },
+    {
+      "game": "yume",
+      "origin": "Hell",
+      "destination": "Docks B",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Hell",
+      "destination": "Face Carpet Plaza",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Hell",
+      "destination": "Footprint Path",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Hell",
+      "destination": "Forest World",
+      "attributes": [],
+      "isRemoved": true
+    },
+    {
+      "game": "yume",
+      "origin": "Hell",
+      "destination": "Guillotine World",
+      "attributes": [
+        "No Entry",
+        "Dead End"
+      ]
+    },
+    {
+      "game": "yume",
+      "origin": "Hell",
+      "destination": "Mini Hell",
+      "attributes": [],
+      "isRemoved": true
+    },
+    {
+      "game": "yume",
+      "origin": "Hell",
+      "destination": "Neon Tile Path",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Hell",
+      "destination": "Sky Garden",
+      "attributes": [
+        "No Return",
+        "Return"
+      ]
+    },
+    {
+      "game": "yume",
+      "origin": "Hell",
+      "destination": "Snow World",
+      "attributes": [
+        "No Entry",
+        "Dead End"
+      ]
+    },
+    {
+      "game": "yume",
+      "origin": "Hell",
+      "destination": "Teleport Maze",
+      "attributes": [
+        "No Return",
+        "Return"
+      ]
+    },
+    {
+      "game": "yume",
+      "origin": "Infinite Road",
+      "destination": "Dense Woods A",
+      "attributes": [
+        "No Entry"
+      ]
+    },
+    {
+      "game": "yume",
+      "origin": "Infinite Road",
+      "destination": "White Desert Mountain Ring",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Lamp World",
+      "destination": "Checkered Tile Path",
+      "attributes": [
+        "Return"
+      ]
+    },
+    {
+      "game": "yume",
+      "origin": "Lamp World",
+      "destination": "Footprint Path",
+      "attributes": [],
+      "isRemoved": true
+    },
+    {
+      "game": "yume",
+      "origin": "Lamp World",
+      "destination": "Guillotine World",
+      "attributes": [],
+      "isRemoved": true
+    },
+    {
+      "game": "yume",
+      "origin": "Lamp World",
+      "destination": "Number World",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Madotsuki's Room",
+      "destination": "Nexus",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Madotsuki's Room",
+      "destination": "Staircase of Hands",
+      "attributes": [
+        "Chance",
+        "Unlockable"
+      ],
+      "chancePercentage": "20%",
+      "chanceDescription": "1/5 chance determined per dream session"
+    },
+    {
+      "game": "yume",
+      "origin": "Mall",
+      "destination": "Dense Woods B",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Mall",
+      "destination": "Graffiti World",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Mall",
+      "destination": "Sewers",
+      "attributes": [
+        "No Entry"
+      ],
+      "isRemoved": true
+    },
+    {
+      "game": "yume",
+      "origin": "Mall",
+      "destination": "Underground World",
+      "attributes": [
+        "No Entry"
+      ]
+    },
+    {
+      "game": "yume",
+      "origin": "Mars",
+      "destination": "Spaceship",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Mini Hell",
+      "destination": "Eyeball World",
+      "attributes": [],
+      "isRemoved": true
+    },
+    {
+      "game": "yume",
+      "origin": "Mini Hell",
+      "destination": "Hell",
+      "attributes": [],
+      "isRemoved": true
+    },
+    {
+      "game": "yume",
+      "origin": "Mini Hell",
+      "destination": "Neon Tile Path",
+      "attributes": [],
+      "isRemoved": true
+    },
+    {
+      "game": "yume",
+      "origin": "Mini Hell",
+      "destination": "Number World",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Mural World",
+      "destination": "Barracks Settlement",
+      "attributes": [
+        "No Entry"
+      ]
+    },
+    {
+      "game": "yume",
+      "origin": "Mural World",
+      "destination": "Dense Woods A",
+      "attributes": [],
+      "isRemoved": true
+    },
+    {
+      "game": "yume",
+      "origin": "Mural World",
+      "destination": "Nexus",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Mural World",
+      "destination": "Sewers",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Neon Tile Path",
+      "destination": "Block World",
+      "attributes": [],
+      "isRemoved": true
+    },
+    {
+      "game": "yume",
+      "origin": "Neon Tile Path",
+      "destination": "Face Carpet Plaza",
+      "attributes": [
+        "No Entry",
+        "Dead End"
+      ]
+    },
+    {
+      "game": "yume",
+      "origin": "Neon Tile Path",
+      "destination": "Graffiti World",
+      "attributes": [],
+      "isRemoved": true
+    },
+    {
+      "game": "yume",
+      "origin": "Neon Tile Path",
+      "destination": "Hell",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Neon Tile Path",
+      "destination": "Mini Hell",
+      "attributes": [],
+      "isRemoved": true
+    },
+    {
+      "game": "yume",
+      "origin": "Neon Tile Path",
+      "destination": "Neon World",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Neon World",
+      "destination": "Footprint Path",
+      "attributes": [],
+      "isRemoved": true
+    },
+    {
+      "game": "yume",
+      "origin": "Neon World",
+      "destination": "Guillotine World",
+      "attributes": [
+        "No Return"
+      ],
+      "isRemoved": true
+    },
+    {
+      "game": "yume",
+      "origin": "Neon World",
+      "destination": "Neon Tile Path",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Neon World",
+      "destination": "Nexus",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Nexus",
+      "destination": "Block World",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Nexus",
+      "destination": "Candle World",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Nexus",
+      "destination": "Dark World",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Nexus",
+      "destination": "Eyeball World",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Nexus",
+      "destination": "Forest World",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Nexus",
+      "destination": "Graffiti World",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Nexus",
+      "destination": "Lamp World",
+      "attributes": [],
+      "isRemoved": true
+    },
+    {
+      "game": "yume",
+      "origin": "Nexus",
+      "destination": "Madotsuki's Room",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Nexus",
+      "destination": "Mural World",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Nexus",
+      "destination": "Neon World",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Nexus",
+      "destination": "Number World",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Nexus",
+      "destination": "Puddle World",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Nexus",
+      "destination": "Shield-Folk World",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Nexus",
+      "destination": "Snow World",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Number World",
+      "destination": "Guillotine World",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Number World",
+      "destination": "Lamp World",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Number World",
+      "destination": "Mini Hell",
+      "attributes": [
+        "Needs Effect"
+      ],
+      "effectsNeeded": [
+        "Knife"
+      ]
+    },
+    {
+      "game": "yume",
+      "origin": "Number World",
+      "destination": "Nexus",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Number World",
+      "destination": "Staircase of Hands",
+      "attributes": [
+        "Chance",
+        "Unlockable"
+      ],
+      "chancePercentage": "20%",
+      "chanceDescription": "1/5 chance"
+    },
+    {
+      "game": "yume",
+      "origin": "Pink Sea",
+      "destination": "Poniko's House",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Pink Sea",
+      "destination": "Snow World",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Poniko's House",
+      "destination": "Pink Sea",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Puddle World",
+      "destination": "Dense Woods A",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Puddle World",
+      "destination": "Nexus",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Puddle World",
+      "destination": "Footprint Path",
+      "attributes": [],
+      "isRemoved": true
+    },
+    {
+      "game": "yume",
+      "origin": "Sewers",
+      "destination": "Docks A",
+      "attributes": [
+        "Needs Effect"
+      ],
+      "effectsNeeded": [
+        "Midget"
+      ]
+    },
+    {
+      "game": "yume",
+      "origin": "Sewers",
+      "destination": "Mall",
+      "attributes": [
+        "No Return"
+      ],
+      "isRemoved": true
+    },
+    {
+      "game": "yume",
+      "origin": "Sewers",
+      "destination": "Mural World",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Sewers",
+      "destination": "Windmill World",
+      "attributes": [
+        "No Return"
+      ]
+    },
+    {
+      "game": "yume",
+      "origin": "Shield-Folk World",
+      "destination": "Checkered Tile Path",
+      "attributes": [],
+      "isRemoved": true
+    },
+    {
+      "game": "yume",
+      "origin": "Shield-Folk World",
+      "destination": "Nexus",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Shield-Folk World",
+      "destination": "Static Maze",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Sky Garden",
+      "destination": "Ghost World",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Sky Garden",
+      "destination": "Hell",
+      "attributes": [
+        "No Entry",
+        "Dead End"
+      ]
+    },
+    {
+      "game": "yume",
+      "origin": "Sky Garden",
+      "destination": "Wilderness",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Snow World",
+      "destination": "Face Carpet Plaza",
+      "attributes": [],
+      "isRemoved": true
+    },
+    {
+      "game": "yume",
+      "origin": "Snow World",
+      "destination": "Footprint Path",
+      "attributes": [],
+      "isRemoved": true
+    },
+    {
+      "game": "yume",
+      "origin": "Snow World",
+      "destination": "Hell",
+      "attributes": [
+        "No Return",
+        "Return"
+      ]
+    },
+    {
+      "game": "yume",
+      "origin": "Snow World",
+      "destination": "Nexus",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Snow World",
+      "destination": "Pink Sea",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Snow World",
+      "destination": "Staircase of Hands",
+      "attributes": [
+        "Chance",
+        "Unlockable"
+      ],
+      "chancePercentage": "20%",
+      "chanceDescription": "1/5 chance"
+    },
+    {
+      "game": "yume",
+      "origin": "Spaceship",
+      "destination": "Mars",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Spaceship",
+      "destination": "Underground World",
+      "attributes": [
+        "No Entry"
+      ]
+    },
+    {
+      "game": "yume",
+      "origin": "Staircase of Hands",
+      "destination": "Block World",
+      "attributes": [
+        "Locked"
+      ]
+    },
+    {
+      "game": "yume",
+      "origin": "Staircase of Hands",
+      "destination": "Candle World",
+      "attributes": [
+        "Locked"
+      ]
+    },
+    {
+      "game": "yume",
+      "origin": "Staircase of Hands",
+      "destination": "Madotsuki's Room",
+      "attributes": [
+        "Locked"
+      ]
+    },
+    {
+      "game": "yume",
+      "origin": "Staircase of Hands",
+      "destination": "Number World",
+      "attributes": [
+        "Locked"
+      ]
+    },
+    {
+      "game": "yume",
+      "origin": "Staircase of Hands",
+      "destination": "Snow World",
+      "attributes": [
+        "Locked"
+      ]
+    },
+    {
+      "game": "yume",
+      "origin": "Staircase of Hands",
+      "destination": "Underground World",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Static Maze",
+      "destination": "FC House",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Static Maze",
+      "destination": "Shield-Folk World",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Static Tunnel",
+      "destination": "FC World A",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Static Tunnel",
+      "destination": "Wilderness",
+      "attributes": [
+        "Return"
+      ]
+    },
+    {
+      "game": "yume",
+      "origin": "Teleport Maze",
+      "destination": "Dense Woods B",
+      "attributes": [
+        "No Entry"
+      ]
+    },
+    {
+      "game": "yume",
+      "origin": "Teleport Maze",
+      "destination": "Hell",
+      "attributes": [
+        "No Entry",
+        "Dead End"
+      ]
+    },
+    {
+      "game": "yume",
+      "origin": "Teleport Maze",
+      "destination": "Wilderness",
+      "attributes": [
+        "Return",
+        "No Return"
+      ]
+    },
+    {
+      "game": "yume",
+      "origin": "Traincar",
+      "destination": "Dark Woods",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Traincar",
+      "destination": "Witch's Island",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Underground World",
+      "destination": "Mall",
+      "attributes": [
+        "No Return"
+      ]
+    },
+    {
+      "game": "yume",
+      "origin": "Underground World",
+      "destination": "Spaceship",
+      "attributes": [
+        "No Return",
+        "Needs Effect"
+      ],
+      "effectsNeeded": [
+        "Umbrella",
+        "Yuki-onna"
+      ]
+    },
+    {
+      "game": "yume",
+      "origin": "Underground World",
+      "destination": "Staircase of Hands",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "White Desert A",
+      "destination": "Block World",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "White Desert A",
+      "destination": "White Desert B",
+      "attributes": [
+        "No Entry"
+      ]
+    },
+    {
+      "game": "yume",
+      "origin": "White Desert B",
+      "destination": "FC Dungeon",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "White Desert B",
+      "destination": "White Desert A",
+      "attributes": [
+        "No Return"
+      ]
+    },
+    {
+      "game": "yume",
+      "origin": "White Desert Mountain Ring",
+      "destination": "Infinite Road",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Wilderness",
+      "destination": "Barracks Settlement",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Wilderness",
+      "destination": "Dark World",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Wilderness",
+      "destination": "Docks B",
+      "attributes": [
+        "No Entry"
+      ]
+    },
+    {
+      "game": "yume",
+      "origin": "Wilderness",
+      "destination": "Sky Garden",
+      "attributes": []
+    },
+    {
+      "game": "yume",
+      "origin": "Wilderness",
+      "destination": "Static Tunnel",
+      "attributes": [
+        "Dead End"
+      ]
+    },
+    {
+      "game": "yume",
+      "origin": "Wilderness",
+      "destination": "Teleport Maze",
+      "attributes": [
+        "Dead End",
+        "No Entry"
+      ]
+    },
+    {
+      "game": "yume",
+      "origin": "Windmill World",
+      "destination": "Block World",
+      "attributes": [
+        "No Return"
+      ]
+    },
+    {
+      "game": "yume",
+      "origin": "Windmill World",
+      "destination": "Docks A",
+      "attributes": [
+        "No Return"
+      ]
+    },
+    {
+      "game": "yume",
+      "origin": "Windmill World",
+      "destination": "FC World C",
+      "attributes": [
+        "No Return"
+      ],
+      "isRemoved": true
+    },
+    {
+      "game": "yume",
+      "origin": "Windmill World",
+      "destination": "Sewers",
+      "attributes": [
+        "No Entry"
+      ]
+    },
+    {
+      "game": "yume",
+      "origin": "Witch's Island",
+      "destination": "Traincar",
+      "attributes": []
+    }
+  ],
+  "game": "yume"
+}
